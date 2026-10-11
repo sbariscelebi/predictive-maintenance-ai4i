@@ -58,3 +58,7 @@ This project is licensed under the MIT License.
 ---
 
 > For questions or suggestions, please open an issue or contact [Baris Celebi](mailto:your.email@example.com).
+
+## Supplemental desktop CPU benchmark
+
+The [desktop CPU benchmark](desktop_cpu_benchmark/README.md) contains the code and instructions for the supplementary inference measurements. These results describe desktop CPU performance and do not represent measurements on a microcomputer or industrial edge device.
