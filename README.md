@@ -62,3 +62,7 @@ This project is licensed under the MIT License.
 ## Supplemental desktop CPU benchmark
 
 The [desktop CPU benchmark](desktop_cpu_benchmark/README.md) contains the code and instructions for the supplementary inference measurements. These results describe desktop CPU performance and do not represent measurements on a microcomputer or industrial edge device.
+
+## Notebook 33 supplementary analyses
+
+The [`notebook33_additions`](notebook33_additions/README.md) folder contains a separate RNF threshold sensitivity helper and reusable publication figure functions based on `muazzez-project33.ipynb`. These additions do not retrain the model or change the supplied data. The RNF analysis is a test-set sensitivity analysis and does not establish a deployment threshold.
